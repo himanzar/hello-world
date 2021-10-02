@@ -5,9 +5,9 @@ res = input(name + ", are you a programmer?" + "[Yes / No]")
 
 if res == 'Yes':
   print(name + ", Welcome to the world of programming!")
-if res == 'No':
+elif res == 'No':
   print("Oh, this app is not for you.")
-
 else:
   print("Oops, we did not expect such an answer!")
 # Coded by Mr.Manzar
+# github.com/himanzar/hello-world
