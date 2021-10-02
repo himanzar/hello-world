@@ -14,3 +14,4 @@ while True:
   print("you can enter 'yse' or 'no only!!")
   res=input("Do you know Python?")
   # Coded by Mr.Manzar
+  # github.com/himanzar/hello-world
